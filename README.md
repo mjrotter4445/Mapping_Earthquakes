@@ -23,10 +23,10 @@ For this project I am creating an **interactive map** that shows the latest **ea
 
 **The Toggle Menu/Legend** in the upper right corner looks like this:  
 <p align="center">
-<img src="https://github.com/mjrotter4445/read_me_working_file/blob/main/streets.jpg" width="60%" height="60%">
+<img src="x" width="60%" height="60%">
 </p>
 <p align="center">
-An interactive world map of earthquakes - Streets View Style
+The menu with toggles
 </p>
 
 **When selected,** these are the results and choices displayed:  
