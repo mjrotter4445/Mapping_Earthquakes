@@ -1,9 +1,9 @@
 # Mapping_Earthquakes
 *An interactive earthquake map with JavaScript and Leaflet*
+ 
 <p align="center">
-<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/coolgraphicmeter.jpg
-"  
-</p>
+   <img width="1000" height="100" src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/coolgraphicmeter.jpg">
+</p>  
 
 ***Note:*** Final documents are stored in Earthquake_Mapping folder/directory seen above. Please find the explanation of the files below. Code needs an API Key from Mapbox in order to run. The API key is not included here but safely secured in config files.   Other files (i.e. Earthquakes_past7days, Simple_Map and json files) are included because of the detailed procedure and work with with Mapbox, Leaflet and GitHub branching practice.  
 
@@ -27,7 +27,7 @@ For this project I am creating an **interactive map** that shows the latest **ea
 
 **The Toggle Menu/Legend** in the upper right corner looks like this:  
 <p align="center">
-<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/IMG_4009.JPG" width="30%" height="30%">
+<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/IMG_4009.JPG" width="30%" height="20%">
 </p>
 <p align="center">
 The menu with on/off toggle buttons
