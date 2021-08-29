@@ -19,31 +19,41 @@ For this project I am creating an **interactive map** that shows the latest **ea
     - Dark view.
 -	**A popup marker** with information about the location and magnitude of the earthquake.
 -	**The diameter** and **the color** of a marker reflect the strength of the earthquake (darker color with larger diameter represent earthquakes with a higher magnitude).
--	**A legend** with the context for the map.
+-	**A color coded legend** with the information/context for the map colors in lower right corner.
+
+**The Toggle Menu/Legend** in the upper right corner looks like this:  
+<p align="center">
+<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/IMG_4009.JPG" width="30%" height="30%">
+</p>
+<p align="center">
+The menu with on/off toggle buttons
+</p>
+
+**When selected,** these are the results and choices displayed:  
 
 <p align="center">
-<img src="https://github.com/mjrotter4445/read_me_working_file/blob/main/streets.jpg" width="60%" height="60%">
+<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/streets.jpg" width="60%" height="60%">
 </p>
 <p align="center">
 An interactive world map of earthquakes - Streets View Style
 </p>
 
 <p align="center">
-<img src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Sattelite.png" width="60%" height="60%">
+<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/Satellite.png" width="60%" height="60%">
 </p>
 <p align="center">
 An interactive world map of earthquakes - Satellite View Style
 </p>
 
 <p align="center">
-<img src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Dark.png" width="60%" height="60%">
+<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/Dark.png" width="60%" height="60%">
 </p>
 <p align="center">
 An interactive world map of earthquakes - Dark View Style
 </p>
 
 <p align="center">
-<img src="https://github.com/mjrotter4445/read_me_working_file/blob/main/popups%20with%20info.jpg" width="40%" height="40%">
+<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/popups%20with%20info.png" width="40%" height="40%">
 </p>
 <p align="center">
 An interactive world map of earthquakes Pop up information displayed
