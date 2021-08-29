@@ -46,7 +46,7 @@ An interactive world map of earthquakes - Satellite View Style
 </p>
 
 <p align="center">
-<img src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Dark.png" width="60%" height="60%">
+<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/Dark.png" width="60%" height="60%">
 </p>
 <p align="center">
 An interactive world map of earthquakes - Dark View Style
