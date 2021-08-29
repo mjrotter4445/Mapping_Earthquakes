@@ -19,7 +19,17 @@ For this project I am creating an **interactive map** that shows the latest **ea
     - Dark view.
 -	**A popup marker** with information about the location and magnitude of the earthquake.
 -	**The diameter** and **the color** of a marker reflect the strength of the earthquake (darker color with larger diameter represent earthquakes with a higher magnitude).
--	**A legend** with the context for the map.
+-	**A color coded legend** with the information/context for the map colors in lower right corner.
+
+**The Toggle Menu/Legend** in the upper right corner looks like this:  
+<p align="center">
+<img src="https://github.com/mjrotter4445/read_me_working_file/blob/main/streets.jpg" width="60%" height="60%">
+</p>
+<p align="center">
+An interactive world map of earthquakes - Streets View Style
+</p>
+
+**When selected,** these are the results and choices displayed:  
 
 <p align="center">
 <img src="https://github.com/mjrotter4445/read_me_working_file/blob/main/streets.jpg" width="60%" height="60%">
