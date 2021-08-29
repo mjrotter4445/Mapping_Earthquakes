@@ -23,7 +23,7 @@ For this project I am creating an **interactive map** that shows the latest **ea
 
 **The Toggle Menu/Legend** in the upper right corner looks like this:  
 <p align="center">
-<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/IMG_4009.JPG" width="40%" height="40%">
+<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/IMG_4009.JPG" width="30%" height="30%">
 </p>
 <p align="center">
 The menu with toggles
