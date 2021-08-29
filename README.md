@@ -53,7 +53,7 @@ An interactive world map of earthquakes - Dark View Style
 </p>
 
 <p align="center">
-<img src="https://github.com/mjrotter4445/read_me_working_file/blob/main/popups%20with%20info.jpg" width="40%" height="40%">
+<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/popups%20with%20info.png" width="40%" height="40%">
 </p>
 <p align="center">
 An interactive world map of earthquakes Pop up information displayed
