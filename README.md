@@ -26,7 +26,7 @@ For this project I am creating an **interactive map** that shows the latest **ea
 <img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/IMG_4009.JPG" width="30%" height="30%">
 </p>
 <p align="center">
-The menu with toggles
+The menu with on/off toggle buttons
 </p>
 
 **When selected,** these are the results and choices displayed:  
