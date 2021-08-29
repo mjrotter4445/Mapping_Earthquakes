@@ -1,5 +1,5 @@
 # Ignore the config.js file 
-config.js
+*config.js
 
 # Compiled class file
 *.class
