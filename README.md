@@ -2,7 +2,7 @@
 *An interactive earthquake map with JavaScript and Leaflet*
 <p align="center">
 <img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/coolgraphicmeter.jpg
-" width="10%" height="30%">
+"  
 </p>
 
 ***Note:*** Final documents are stored in Earthquake_Mapping folder/directory seen above. Please find the explanation of the files below. Code needs an API Key from Mapbox in order to run. The API key is not included here but safely secured in config files.   Other files (i.e. Earthquakes_past7days, Simple_Map and json files) are included because of the detailed procedure and work with with Mapbox, Leaflet and GitHub branching practice.  
