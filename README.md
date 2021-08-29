@@ -32,7 +32,7 @@ An interactive world map of earthquakes - Streets View Style
 **When selected,** these are the results and choices displayed:  
 
 <p align="center">
-<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/IMG_4009.JPG" width="60%" height="60%">
+<img src="https://github.com/mjrotter4445/Mapping_Earthquakes/blob/main/Earthquake_Challenges/Resources_Images/streets.jpg" width="60%" height="60%">
 </p>
 <p align="center">
 An interactive world map of earthquakes - Streets View Style
